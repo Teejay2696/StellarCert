@@ -1,0 +1,21 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/1011-expiration-check-revoked-frozen",
+    "main",
+    "origin",
+    "solver/issue-1181-38-a0"
+  ],
+  "parent": {
+    "fix/1011-expiration-check-revoked-frozen": "main",
+    "main": null,
+    "origin": "main",
+    "solver/issue-1181-38-a0": "main"
+  },
+  "order": [
+    "main",
+    "fix/1011-expiration-check-revoked-frozen",
+    "origin",
+    "solver/issue-1181-38-a0"
+  ]
+}
